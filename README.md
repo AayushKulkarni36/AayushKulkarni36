@@ -41,19 +41,7 @@
 
 
 
-
-
   Want it more formal, playful, or in a specific tech stack vibe (e.g., backend dev, ML, web dev)? I can tailor it!
-
-
-
-
-
-
-
-
-
-
 
    ⚙️ Some Tools and Tech I use
 🚀 I use daily: Python C++ JavaScript Java Git Shell VS Code Ubuntu
@@ -70,7 +58,7 @@
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](linkedin.com/in/ayushkulkarni0932)
+- [LinkedIn]: [(linkedin.com/in/ayushkulkarni0932)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BVkNPoK3NQICyNhtiFIT%2BSw%3D%3D)
 
 
 
