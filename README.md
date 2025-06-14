@@ -44,18 +44,12 @@
   Want it more formal, playful, or in a specific tech stack vibe (e.g., backend dev, ML, web dev)? I can tailor it!
 
    ⚙️ Some Tools and Tech I use
-🚀 I use daily: Python C++ JavaScript Java Git Shell VS Code Ubuntu
-💻 I work using: Flask Django React GCP PostgreSQL GitHub GitLab
-⚙️ I also work and use: TensorFlow 2 Jenkins MongoDB Terraform C HTML5 CSS3 Bootstrap
-🌱 Learning all about: Machine Learning Data Analytics Graphql ERPNext
-
- 
+🚀 I use daily: Python, C++ ,JavaScript, Java ,Git, Shell, VS Code, Ubuntu
+💻 I work using: Flask ,Django, React, GCP ,PostgreSQ,L GitHub, GitLab
+⚙️ I also work and use: TensorFlow ,Jenkins, MongoDB, Terraform, C ,HTML5, CSS3, Bootstrap
+🌱 Learning all about: Machine Learning ,Data Analytics .
 
 
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushKulkarni36&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 [Linkedin] https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BVkNPoK3NQICyNhtiFIT%2BSw%3D%3D
