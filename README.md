@@ -51,7 +51,7 @@
 
  
 
-## 📈 GitHub Stats
+
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushKulkarni36&show_icons=true&theme=radical)
 
