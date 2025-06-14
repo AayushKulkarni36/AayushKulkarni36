@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Aayush Kulkarni
 ![image](https://github.com/user-attachments/assets/dcbc630d-1177-42ea-9500-856f3388bcb6)
-![image](https://github.com/user-attachments/assets/fc9a005b-f79d-4691-bd5c-89d8a2b1d76f)
+
 
 
 🎓 I'm an undergraduate student at **MET Institute Of Engineering,Nashik**, pursuing **Information Technology Engineering**.
