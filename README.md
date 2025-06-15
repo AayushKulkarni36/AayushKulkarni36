@@ -27,14 +27,10 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
 
 
 ## 🔧 Skills & Tools                
-- **Languages:** C, C++, Python
-- 
+- **Languages:** C, C++, Python 
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
-- 
 - **Databases:** MongoDB, MySQL                             
-- 
-- **Tools & Platforms:** Git, GitHub, VS Code, Tinkercad ,Blender, Scratch, Docker
-- 
+- **Tools & Platforms:** Git, GitHub, VS Code, Tinkercad ,Blender, Scratch, Docker 
 - **Others:** REST APIs, Linux, Agile Development
 
 
