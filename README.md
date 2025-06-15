@@ -22,11 +22,11 @@ My core interests revolve around backend development 🔧 and machine learning �
 Always curious and ready to grow 🌱, I continuously seek opportunities to learn, adapt, and build impactful tech solutions. ✨
 
 
-![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
 
 
 
-## 🔧 Skills & Tools
+
+## 🔧 Skills & Tools                ![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
 - **Languages:** C, C++, Python
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
