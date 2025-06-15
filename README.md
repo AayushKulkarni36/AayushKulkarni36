@@ -26,11 +26,15 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
 
 
 
-## 🔧 Skills & Tools                ![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
+## 🔧 Skills & Tools                
 - **Languages:** C, C++, Python
+- 
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+- 
+- **Databases:** MongoDB, MySQL                              ![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
+- 
 - **Tools & Platforms:** Git, GitHub, VS Code, Tinkercad ,Blender, Scratch, Docker
+- 
 - **Others:** REST APIs, Linux, Agile Development
 
 
