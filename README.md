@@ -1,8 +1,9 @@
 # 👋 Hi there! I'm Aayush Kulkarni
-![Focused Coder](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/gifs/coding_moody.gif)
 
 
-Quick Glance about me...
+
+## Quick Glance about me...
+
 🎓 I'm an undergraduate student at MET IOE Nashik, pursuing Infromation Technology Engineering. A passionate tech enthusiast 💻, I'm deeply driven by a love for learning and staying in sync with the latest in cutting-edge technology ⚙️🚀.
 
 With a strong sense of leadership 🧠 and the ability to stay composed under pressure ⏳, I bring a positive, can-do attitude 😊 to every team I collaborate with 🤝.
