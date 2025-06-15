@@ -72,6 +72,3 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
 ## 📫 Let's Connect!
 [Linkedin] https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BVkNPoK3NQICyNhtiFIT%2BSw%3D%3D
 
-
-
-![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/user-attachments/assets/cbf45ffe-ab2a-4aee-9959-69ea75ddeee7)
