@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Aayush Kulkarni
-![image](https://github.com/user-attachments/assets/dcbc630d-1177-42ea-9500-856f3388bcb6)
+![Focused Coder](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/gifs/coding_moody.gif)
 
 
 Quick Glance about me...
@@ -10,7 +10,6 @@ With a strong sense of leadership 🧠 and the ability to stay composed under pr
 My core interests revolve around backend development 🔧 and machine learning 🤖, where I enjoy architecting robust systems and uncovering smart solutions. At the same time, I’m drawn to crafting seamless web experiences 🌐 that merge functionality with user-centric design.
 
 Always curious and ready to grow 🌱, I continuously seek opportunities to learn, adapt, and build impactful tech solutions. ✨
-![Coding Vibes](https://raw.githubusercontent.com/your-username/your-repo/main/gif/yourfile.gif)
 
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966](https://github.com/user-attachments/assets/2410417f-f7eb-42b6-8641-a09604573ef6)
@@ -20,7 +19,7 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
 - **Languages:** C, C++, Python
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+- **Tools & Platforms:** Git, GitHub, VS Code, Tinkercad ,Blender, Scratch, Docker
 - **Others:** REST APIs, Linux, Agile Development
 
 
