@@ -31,7 +31,7 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
 - 
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
 - 
-- **Databases:** MongoDB, MySQL                              ![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
+- **Databases:** MongoDB, MySQL                             
 - 
 - **Tools & Platforms:** Git, GitHub, VS Code, Tinkercad ,Blender, Scratch, Docker
 - 
@@ -53,6 +53,7 @@ Always curious and ready to grow 🌱, I continuously seek opportunities to lear
   😄 Pronouns: He/Him
   
   ⌨️ Fun Fact: I’ve named more variables than pets.
+   ![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
   
 
 🚀 I use daily:
