@@ -2,14 +2,19 @@
 ![image](https://github.com/user-attachments/assets/dcbc630d-1177-42ea-9500-856f3388bcb6)
 
 
+Quick Glance about me...
+🎓 I'm an undergraduate student at MET IOE Nashik, pursuing Infromation Technology Engineering. A passionate tech enthusiast 💻, I'm deeply driven by a love for learning and staying in sync with the latest in cutting-edge technology ⚙️🚀.
 
-🎓 I'm an undergraduate student at **MET Institute Of Engineering,Nashik**, pursuing **Information Technology Engineering**.
+With a strong sense of leadership 🧠 and the ability to stay composed under pressure ⏳, I bring a positive, can-do attitude 😊 to every team I collaborate with 🤝.
 
-💻 I'm a passionate tech enthusiast who enjoys learning and working with the latest technologies.  
-🔧 I specialize in **Web Development (Backend)** and **Machine Learning**, and love building efficient and seamless digital experiences.
+My core interests revolve around backend development 🔧 and machine learning 🤖, where I enjoy architecting robust systems and uncovering smart solutions. At the same time, I’m drawn to crafting seamless web experiences 🌐 that merge functionality with user-centric design.
+
+Always curious and ready to grow 🌱, I continuously seek opportunities to learn, adapt, and build impactful tech solutions. ✨
+![Coding Vibes](https://raw.githubusercontent.com/your-username/your-repo/main/gif/yourfile.gif)
 
 
-![image](https://github.com/user-attachments/assets/49ded47e-9e72-471c-812e-828ff32f597f)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966](https://github.com/user-attachments/assets/2410417f-f7eb-42b6-8641-a09604573ef6)
+
 
 ## 🔧 Skills & Tools
 - **Languages:** C, C++, Python
