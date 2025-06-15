@@ -1,4 +1,10 @@
-![238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78](https://github.com/user-attachments/assets/7f77ca8b-2674-4d3c-b05d-1c8bdc98b918)# 👋 Hi there! I'm Aayush Kulkarni
+
+![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/f4b2a1e5-c928-46b6-9ad2-b35fd5311105)
+
+
+
+
+# 👋 Hi there! I'm Aayush Kulkarni
 
 
 
@@ -13,7 +19,8 @@ My core interests revolve around backend development 🔧 and machine learning �
 Always curious and ready to grow 🌱, I continuously seek opportunities to learn, adapt, and build impactful tech solutions. ✨
 
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966](https://github.com/user-attachments/assets/2410417f-f7eb-42b6-8641-a09604573ef6)
+![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/e578057c-aa43-4034-88f9-428ecc3d734d)
+
 
 
 ## 🔧 Skills & Tools
