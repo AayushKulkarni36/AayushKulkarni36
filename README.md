@@ -13,13 +13,13 @@
 
 ## Quick Glance about me...
 
-🎓 I'm an undergraduate student at MET IOE Nashik, pursuing Infromation Technology Engineering. A passionate tech enthusiast 💻, I'm deeply driven by a love for learning and staying in sync with the latest in cutting-edge technology ⚙️🚀.
+🎓 I'm an undergraduate student at MET IOE Nashik, pursuing Infromation Technology Engineering. A passionate tech enthusiast 💻, I'm deeply driven by a love for learning and staying in sync with the latest in cutting-edge technology .
 
-With a strong sense of leadership 🧠 and the ability to stay composed under pressure ⏳, I bring a positive, can-do attitude 😊 to every team I collaborate with 🤝.
+With a strong sense of leadership  and the ability to stay composed under pressure ⏳, I bring a positive, can-do attitude 😊 to every team I collaborate with 🤝.
 
-My core interests revolve around backend development 🔧 and machine learning 🤖, where I enjoy architecting robust systems and uncovering smart solutions. At the same time, I’m drawn to crafting seamless web experiences 🌐 that merge functionality with user-centric design.
+My core interests revolve around backend development 🔧 and machine learning 🤖, where I enjoy architecting robust systems and uncovering smart solutions. At the same time, I’m drawn to crafting seamless web experiences that merge functionality with user-centric design.
 
-Always curious and ready to grow 🌱, I continuously seek opportunities to learn, adapt, and build impactful tech solutions. ✨
+Always curious and ready to grow , I continuously seek opportunities to learn, adapt, and build impactful tech solutions. 
 
 
 
