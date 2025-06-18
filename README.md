@@ -22,10 +22,6 @@ My core interests revolve around backend development 🔧 and machine learning �
 Always curious and ready to grow , I continuously seek opportunities to learn, adapt, and build impactful tech solutions. 
 
 
-
-
-
-
 ## 🔧 Skills & Tools                
 - **Languages:** C, C++, Python 
 - **Web:** HTML, CSS, Javascript, Bootstrap, Node.js, Express.js
