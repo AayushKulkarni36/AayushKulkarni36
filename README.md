@@ -21,7 +21,7 @@
 
 👤 Name: Aayush Kulkarni
 
- -Education: B.E. in Information Technology — MET Institute of Engineering, Nashik
+ -Education: B.E. in Information Technology CGPA(8.71) — MET Institute of Engineering, Nashik
  
  -Location: Nashik, India
  
@@ -37,7 +37,6 @@
  
  -Natural Language Processing (NLP)
  
- -CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving!)
  
  Current Focus
 -Mastering Data Structures & Algorithms
