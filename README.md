@@ -181,7 +181,7 @@ I'm always excited to collaborate on innovative AI/ML projects, especially those
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=The+best+way+to+predict+the+future+is+to+invent+it.+-+Alan+Kay;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;AI+is+the+new+electricity.+-+Andrew+Ng;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler" alt="Tech Quote"/>
 </div>
 
 <div align="center">
@@ -189,6 +189,5 @@ I'm always excited to collaborate on innovative AI/ML projects, especially those
 </div>
 
 <div align="center">
-  <i> From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time 🤖</i>
+  <i>⭐️ From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time 🤖</i>
 </div>
-
