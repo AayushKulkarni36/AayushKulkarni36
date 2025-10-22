@@ -17,46 +17,36 @@
 
 # 🚀 About Me
 
-class AayushKulkarni:
-    def __init__(self):
-        self.name = "Aayush Kulkarni"
-        self.role = "AI/ML Engineer | LLM & RAG Specialist"
-        self.education = "B.E. Information Technology @ MET IOE Nashik"
-        self.location = "Nashik, India"
-        self.focus_areas = ["LLMs", "RAG Systems", "Agentic AI", "Computer Vision", "NLP"]
-        self.cgpa_journey = [7.89, 8.5, 8.71]  # Growing consistently!
+Name: Aayush Kulkarni
+Role: AI/ML Engineer | LLM & RAG Specialist
+Education: B.E. in Information Technology, MET Institute of Engineering, Nashik
+Location: Nashik, India
 
-    def current_focus(self):
-        return [
-            "📚 Mastering Data Structures & Algorithms",
-            "🤖 Building Computer Vision & NLP projects",
-            "🧠 Learning about LLMs, RAG, and Agentic AI",
-            "💻 Practicing competitive programming daily",
-            "🌱 Exploring new AI/ML technologies"
-        ]
+Focus Areas:
 
-    def future_goals(self):
-        return [
-            "🎯 Dive deep into LLM applications and RAG systems",
-            "🚀 Build AI agents and multi-agent systems",
-            "💡 Contribute to open-source AI projects",
-            "📈 Master production ML deployment",
-            "🌍 Work on AI solutions with real-world impact"
-        ]
+Large Language Models (LLMs)
 
+Retrieval-Augmented Generation (RAG) Systems
 
-# Example usage:
-if __name__ == "__main__":
-    ayush = AayushKulkarni()
-    print("Name:", ayush.name)
-    print("Role:", ayush.role)
-    print("\nCurrent Focus Areas:")
-    for item in ayush.current_focus():
-        print("-", item)
-    
-    print("\nFuture Goals:")
-    for goal in ayush.future_goals():
-        print("-", goal)
+Agentic AI
+
+Computer Vision
+
+Natural Language Processing (NLP)
+
+CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving)
+
+🎯 Current Focus
+
+Mastering Data Structures & Algorithms
+
+Building Computer Vision and NLP projects
+
+Learning about LLMs, RAG, and Agentic AI
+
+Practicing competitive programming daily
+
+Exploring new AI/ML technologies
 ## 🛠️ Tech Stack
 
 ### **Languages**
