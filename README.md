@@ -15,26 +15,31 @@
 
 ---
 
-# 🚀 About Me
+🚀 About Me
 
-Name: Aayush Kulkarni
-Role: AI/ML Engineer | LLM & RAG Specialist
-Education: B.E. in Information Technology, MET Institute of Engineering, Nashik
-Location: Nashik, India
 
-Focus Areas:
+👤 Name: Aayush Kulkarni
 
-Large Language Models (LLMs)
+💼 Role: AI/ML Engineer | LLM & RAG Specialist
 
-Retrieval-Augmented Generation (RAG) Systems
+🎓 Education: B.E. in Information Technology — MET Institute of Engineering, Nashik
 
-Agentic AI
+📍 Location: Nashik, India
 
-Computer Vision
+🔬 Focus Areas:
 
-Natural Language Processing (NLP)
 
-CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving)
+🧠 Large Language Models (LLMs)
+
+📚 Retrieval-Augmented Generation (RAG) Systems
+
+🤖 Agentic AI
+
+👁️ Computer Vision
+
+💬 Natural Language Processing (NLP)
+
+📈 CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving!)
 
 🎯 Current Focus
 
