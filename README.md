@@ -190,5 +190,5 @@ I'm always excited to collaborate on innovative AI/ML projects, especially those
 </div>
 
 <div align="center">
-  <i> From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time 🤖</i>
+  <i> From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time </i>
 </div>
