@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AayushKulkarni36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -119,7 +119,7 @@
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 -  **Large Language Models (LLMs):** Fine-tuning, prompt engineering, and deployment
 -  **Retrieval-Augmented Generation (RAG):** Advanced RAG architectures and optimization
@@ -130,7 +130,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 -  **Academic Excellence:** CGPA 7.89 → 8.5 → 8.71 (Consistent Growth)
 -  **Languages:** English (Fluent), Hindi (Native), Marathi (Native), German (A1 Certified)
@@ -149,7 +149,7 @@
 
 ---
 
-## 💡 Philosophy & Approach
+##   Approach
 
 > "AI should solve real-world problems, not just win benchmarks."
 
@@ -165,7 +165,7 @@ I believe in building AI systems that create tangible impact. My focus is on:
 ---
 
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always excited to collaborate on innovative AI/ML projects, especially those involving **LLMs**, **RAG systems**, **Agentic AI**, or **Computer Vision**. Let's build something amazing together!
 
@@ -189,5 +189,5 @@ I'm always excited to collaborate on innovative AI/ML projects, especially those
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time 🤖</i>
+  <i> From <a href="https://github.com/AayushKulkarni36">Aayush Kulkarni</a> | Building the future with AI, one model at a time 🤖</i>
 </div>
