@@ -5,9 +5,10 @@
 <h3 align="center">🎓 Final Year IT Engineering Student @ MET IOE Nashik | Passionate about AI/ML & Problem Solving</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ayushkulkarni0932"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayushkulkarni0932"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AayushKulkarni36"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AayushKulkarni36&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -172,12 +173,12 @@ I'm always excited to collaborate on innovative AI/ML projects, especially those
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayushkulkarni0932)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkulkarni0932)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AayushKulkarni36)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+
 
 ---
 
