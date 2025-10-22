@@ -5,7 +5,7 @@
 <h3 align="center">🎓 Final Year IT Engineering Student @ MET IOE Nashik | Passionate about AI/ML & Problem Solving</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayush-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/ayushkulkarni0932"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AayushKulkarni36"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -19,47 +19,32 @@
 
 
 👤 Name: Aayush Kulkarni
+ -Education: B.E. in Information Technology — MET Institute of Engineering, Nashik
+ -Location: Nashik, India
+ 
+ Focus Areas:
+ 
+ -Large Language Models (LLMs)
+ -Retrieval-Augmented Generation (RAG) Systems
+ -Agentic AI
+ -Computer Vision
+ -Natural Language Processing (NLP)
+ -CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving!)
+ 
+ Current Focus
+-Mastering Data Structures & Algorithms
+-Building Computer Vision and NLP projects
+-Learning about LLMs, RAG, and Agentic AI
+-Practicing competitive programming daily
+-Exploring new AI/ML technologies
 
-💼 Role: AI/ML Engineer | LLM & RAG Specialist
-
-🎓 Education: B.E. in Information Technology — MET Institute of Engineering, Nashik
-
-📍 Location: Nashik, India
-
-🔬 Focus Areas:
-
-
-🧠 Large Language Models (LLMs)
-
-📚 Retrieval-Augmented Generation (RAG) Systems
-
-🤖 Agentic AI
-
-👁️ Computer Vision
-
-💬 Natural Language Processing (NLP)
-
-📈 CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving!)
-
-🎯 Current Focus
-
-Mastering Data Structures & Algorithms
-
-Building Computer Vision and NLP projects
-
-Learning about LLMs, RAG, and Agentic AI
-
-Practicing competitive programming daily
-
-Exploring new AI/ML technologies
 ## 🛠️ Tech Stack
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,8 +68,9 @@ Exploring new AI/ML technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,6 +81,7 @@ Exploring new AI/ML technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-0A8CFF?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Design Tools**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
