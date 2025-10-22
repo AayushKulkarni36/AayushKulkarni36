@@ -15,51 +15,48 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 class AayushKulkarni:
-  def init(self):
-    self.name = "Aayush Kulkarni"
-    self.role = "IT Engineering Student"
-    self.education = "B.E. Information Technology @ MET IOE Nashik"
-    self.location = "Nashik, India"
-    self.interests = ["AI/ML", "Computer Vision", "NLP", "DSA"]
-    self.cgpa_journey = [7.89, 8.5, 8.71] # Growing consistently!
-class AayushKulkarni:
-  def init(self):
-    self.name = "Aayush Kulkarni"
-    self.role = "AI/ML Engineer | LLM & RAG Specialist"
-    self.education = "B.E. Information Technology @ MET IOE Nashik"
-    self.location = "Nashik, India"
-    self.focus_areas = ["LLMs", "RAG Systems", "Agentic AI", "Computer Vision", "NLP"]
+    def __init__(self):
+        self.name = "Aayush Kulkarni"
+        self.role = "AI/ML Engineer | LLM & RAG Specialist"
+        self.education = "B.E. Information Technology @ MET IOE Nashik"
+        self.location = "Nashik, India"
+        self.focus_areas = ["LLMs", "RAG Systems", "Agentic AI", "Computer Vision", "NLP"]
+        self.cgpa_journey = [7.89, 8.5, 8.71]  # Growing consistently!
+
+    def current_focus(self):
+        return [
+            "📚 Mastering Data Structures & Algorithms",
+            "🤖 Building Computer Vision & NLP projects",
+            "🧠 Learning about LLMs, RAG, and Agentic AI",
+            "💻 Practicing competitive programming daily",
+            "🌱 Exploring new AI/ML technologies"
+        ]
+
+    def future_goals(self):
+        return [
+            "🎯 Dive deep into LLM applications and RAG systems",
+            "🚀 Build AI agents and multi-agent systems",
+            "💡 Contribute to open-source AI projects",
+            "📈 Master production ML deployment",
+            "🌍 Work on AI solutions with real-world impact"
+        ]
 
 
-def current_focus(self):
-    return [
-        "📚 Mastering Data Structures & Algorithms",
-        "🤖 Building Computer Vision & NLP projects",
-        "🧠 Learning about LLMs, RAG, and Agentic AI",
-        "💻 Practicing competitive programming daily",
-        "🌱 Exploring new AI/ML technologies"
-    ]
-
-def future_goals(self):
-    return [
-        "🎯 Dive deep into LLM applications and RAG systems",
-        "🚀 Build AI agents and multi-agent systems",
-        "💡 Contribute to open-source AI projects",
-        "📈 Master production ML deployment",
-        "🌍 Work on AI solutions with real-world impact"
-    ]
-
-
-
-
----
-
-
----
-
+# Example usage:
+if __name__ == "__main__":
+    ayush = AayushKulkarni()
+    print("Name:", ayush.name)
+    print("Role:", ayush.role)
+    print("\nCurrent Focus Areas:")
+    for item in ayush.current_focus():
+        print("-", item)
+    
+    print("\nFuture Goals:")
+    for goal in ayush.future_goals():
+        print("-", goal)
 ## 🛠️ Tech Stack
 
 ### **Languages**
