@@ -26,17 +26,26 @@
  Focus Areas:
  
  -Large Language Models (LLMs)
+ 
  -Retrieval-Augmented Generation (RAG) Systems
+ 
  -Agentic AI
+ 
  -Computer Vision
+ 
  -Natural Language Processing (NLP)
+ 
  -CGPA Journey: 7.89 → 8.5 → 8.71 (Consistently improving!)
  
  Current Focus
 -Mastering Data Structures & Algorithms
+
 -Building Computer Vision and NLP projects
+
 -Learning about LLMs, RAG, and Agentic AI
+
 -Practicing competitive programming daily
+
 -Exploring new AI/ML technologies
 
 ## 🛠️ Tech Stack
