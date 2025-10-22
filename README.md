@@ -20,7 +20,9 @@
 
 
 👤 Name: Aayush Kulkarni
+
  -Education: B.E. in Information Technology — MET Institute of Engineering, Nashik
+ 
  -Location: Nashik, India
  
  Focus Areas:
