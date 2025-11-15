@@ -16,10 +16,10 @@
 
 ---
 
-🚀 About Me
+ About Me
 
 
-👤 Name: Aayush Kulkarni
+ Name: Aayush Kulkarni
 
  -Education: B.E. in Information Technology CGPA(8.71) — MET Institute of Engineering, Nashik
  
