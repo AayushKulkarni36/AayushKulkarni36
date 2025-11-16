@@ -133,7 +133,7 @@
 
 ##  Achievements & Certifications
 
--  **Academic Excellence:** CGPA 7.89 → 8.5 → 8.71 (Consistent Growth)
+-  **Academics:** CGPA 8.71 
 -  **Languages:** English (Fluent), Hindi (Native), Marathi (Native), German (A1 Certified)
 -  **Coding Platforms:** Active on LeetCode, HackerRank, CodeForces
 -  **Hackathons: Selected in Smart India Hackathon 2025 internal round to represent the institute.
